@@ -1,0 +1,74 @@
+{
+  "name": "arkatheme2",
+  "displayName": "ArkaTheme 2",
+  "description": "arkaTheme2: Sleek, immersive coding theme.",
+  "version": "1.11.0",
+  "icon": "images/horekrishno.jpeg",
+  "publisher": "arkabanerjee",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thearkabanerjee/ArkaTheme2"
+  },
+  "keywords": [
+    "theme",
+    "color",
+    "Github themes",
+    "color theme",
+    "dark theme",
+    "light theme",
+    "color schemes",
+    "color schemes",
+    "dark color schemes",
+    "light color schemes",
+    "color themes",
+    "arkaspeaks",
+    "ArkaTheme",
+    "arkatheme",
+    "cool themes",
+    "dark themes",
+    "light themes",
+    "cyberpunk themes",
+    "cyberpunk",
+    "dark cyberpunk themes",
+    "cool themes",
+    "Modern VS Code Theme",
+    "Minimalistic Code Theme",
+    "Sleek Code Editor Theme",
+    "Elegant Developer Theme",
+    "Aesthetic Coding Experience",
+    "VS Code Custom Theme",
+    "Popular VS Code Themes 2024",
+    "Popular VS Code Themes 2025",
+    "Light/Dark Mode Code Theme",
+    "High-Contrast VS Code Theme",
+    "Color-Coded Syntax Theme for VS Code",
+    "Arka Theme Collection",
+    "Arkatheme Color Scheme",
+    "Arkatheme Series for VS Code",
+    "VS Code Theme Collection",
+    "VS Code Color Theme Collection",
+    "VS Code Theme by Arka Banerjee",
+    "Distinctive VS Code Themes",
+    "Productivity Boosting Themes",
+    "Developer-Focused Theme",
+    "Professional Coding Theme",
+    "Stream-Friendly VS Code Theme",
+    "VS Code Theme for Coding Live"
+  ],
+  
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ArkaTheme 2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ArkaTheme 2-color-theme.json"
+      }
+    ]
+  }
+}
